@@ -2,6 +2,7 @@
 This repository provides an ADR (Architecture Decision Record) template designed to mitigate the effects of cognitive biases in decision-making processes. By structuring and documenting architectural decisions, we aim to promote clearer thinking, better understanding, and more informed choices in software development
 
 ### [Link to Cognitive Biases Shield - ADR Template](./cognitive-biases-shield-ADR-template.md)
+### [Example ADR: Should we choose Apache Kafka for the project?](./cognitive-biases-shield-ADR-example.md)
 
 # Architecture Decision Record (ADR)
 
